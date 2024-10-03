@@ -1,0 +1,17 @@
+body{
+    background-color:white
+}
+p{
+    color: rgb(78, 78, 77);
+}
+.foto{
+width: 100px;
+
+border: 2px solid #fffff;
+border-radius: 50%;
+
+margin: 30px 30px 30px 30px; /* alteração pra borda de toda i
+padding: 10px; /* ele aplica alteração padrao pra toda alteração da borda da  imagem*/
+
+
+}

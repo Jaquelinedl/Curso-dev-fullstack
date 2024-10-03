@@ -1,0 +1,15 @@
+body{
+    color: rgb(82, 81, 81);
+}
+p{
+    color: rgb(34,34, 34);
+}
+.foto{
+    width: 200px;
+    border: 5px solid rgb(241, 238, 238); /* shorthand*/
+    border-radius: 20%;
+    /*
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;*/
+}
